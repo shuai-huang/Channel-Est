@@ -9,6 +9,7 @@
     author={S. Huang and D. Qiu and T. D. Tran},
     booktitle={Proceedings of IEEE ICASSP},
     title={Bayesian Massive MIMO Channel Estimation with Parameter Estimation using Low-Resolution ADCs},
+    pages={4830-4834},
     year={2021},
     month={June}
 }
