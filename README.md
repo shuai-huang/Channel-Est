@@ -42,4 +42,4 @@ Open `MATLAB` and type the following commands into the console:
 
 [1] S. Huang and T. D. Tran, "Sparse signal recovery using generalized approximate message passing with built-in parameter estimation," in Proceedings of IEEE ICASSP, March 2017, pp. 4321–4325.
 
-[2] S. Huang, D. Qiu, and T. D. Tran, "1-bit compressive sens-ing via approximate message passing with built-in parameter estimation," arXiv:2007.07679, 2020.
+[2] S. Huang, D. Qiu, and T. D. Tran, "Approximate Message Passing With Parameter Estimation for Heavily Quantized Measurements," in IEEE Transactions on Signal Processing, vol. 70, pp. 2062-2077, 2022.

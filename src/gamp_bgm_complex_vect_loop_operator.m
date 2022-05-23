@@ -353,6 +353,8 @@ function [lambda, omega, theta, phi, gamma, psi] = input_parameter_est(r_hat, ta
     if (psi_new<0)
         psi_new = psi;
     end
+    
+    psi = psi + kappa * (psi_new - psi);
 
 end
 
